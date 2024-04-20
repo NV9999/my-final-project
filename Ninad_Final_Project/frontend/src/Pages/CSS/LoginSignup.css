@@ -1,7 +1,7 @@
 .loginsignup{
     width: 100%;
     min-height: 90vh;
-    background: silver;
+    background:  linear-gradient(180deg, #610e5a, #e1ffea22 60%);
     padding-top: 100px;
 }
 .loginsignup-container{
